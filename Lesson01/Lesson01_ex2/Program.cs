@@ -1,5 +1,9 @@
 ﻿namespace Lesson01_ex2
 {
+    /// <summary>
+    /// Author: Tiến Anh
+    /// Date  : 14/10/2024
+    /// </summary>
     internal class Program
     {
         static void Main(string[] args)

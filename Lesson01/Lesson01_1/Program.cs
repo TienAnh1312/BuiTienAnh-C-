@@ -1,4 +1,9 @@
-﻿internal class program
+﻿
+/// <summary>
+/// Author: Tiến Anh
+/// Date  : 14/10/2024
+/// </summary>
+internal class program
 {
     /// In thông tin bản thân
     static void Main(string[] args)

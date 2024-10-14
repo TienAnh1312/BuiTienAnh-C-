@@ -1,6 +1,9 @@
 ﻿internal class program
 {
-    
+    /// <summary>
+    /// Author: Tiến Anh
+    /// Date  : 14/10/2024
+    /// </summary>
     static void Main(string[] args)
     {
         // In chữ "C"
