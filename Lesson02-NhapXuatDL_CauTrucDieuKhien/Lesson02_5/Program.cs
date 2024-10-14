@@ -2,7 +2,7 @@
 {
     /// <summary>
     /// Author: Tiến Anh
-    /// Date: 13/12/2003
+    /// Date: 14/10/2024
     /// Objective: Tính tổng số chẵn và không chi hết cho 3 từ 1-100
     /// </summary>
     internal class Program

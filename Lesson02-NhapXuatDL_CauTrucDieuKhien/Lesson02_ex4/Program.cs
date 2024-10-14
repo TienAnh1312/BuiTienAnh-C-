@@ -3,7 +3,7 @@
 
     /// <summary>
     /// Author: Tiến Anh
-    /// Date: 13/12/2003
+    /// Date: 14/10/2024
     /// Objective: viết chương trình in ra tổng 3 ký số là chẵn từ 100 - 999
     /// </summary>
     internal class Program

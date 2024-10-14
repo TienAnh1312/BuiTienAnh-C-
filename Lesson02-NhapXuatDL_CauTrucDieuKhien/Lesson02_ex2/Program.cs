@@ -2,7 +2,7 @@
 {
     /// <summary>
     /// Author: Tiến Anh
-    /// Date: 13/12/2003
+    /// Date: 14/10/2024
     /// Objective: Nhập vào năm x tháng y in ra số ngày trong tháng năm đó
     /// </summary>
     internal class Program

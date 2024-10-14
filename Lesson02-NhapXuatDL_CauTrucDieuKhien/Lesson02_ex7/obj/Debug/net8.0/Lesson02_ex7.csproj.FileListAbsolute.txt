@@ -1,0 +1,15 @@
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\obj\Debug\net8.0\Lesson02_ex7.GeneratedMSBuildEditorConfig.editorconfig
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\obj\Debug\net8.0\Lesson02_ex7.AssemblyInfoInputs.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\obj\Debug\net8.0\Lesson02_ex7.AssemblyInfo.cs
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\obj\Debug\net8.0\Lesson02_ex7.csproj.CoreCompileInputs.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\obj\Debug\net8.0\Lesson02_ex7.sourcelink.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\bin\Debug\net8.0\Lesson02_ex7.exe
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\bin\Debug\net8.0\Lesson02_ex7.deps.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\bin\Debug\net8.0\Lesson02_ex7.runtimeconfig.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\bin\Debug\net8.0\Lesson02_ex7.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\bin\Debug\net8.0\Lesson02_ex7.pdb
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\obj\Debug\net8.0\Lesson02_ex7.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\obj\Debug\net8.0\refint\Lesson02_ex7.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\obj\Debug\net8.0\Lesson02_ex7.pdb
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\obj\Debug\net8.0\Lesson02_ex7.genruntimeconfig.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson02-NhapXuatDL_CauTrucDieuKhien\Lesson02_ex7\obj\Debug\net8.0\ref\Lesson02_ex7.dll

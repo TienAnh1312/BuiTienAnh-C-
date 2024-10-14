@@ -3,7 +3,7 @@
 
     /// <summary>
     /// Author: Tiến Anh
-    /// Date: 13/12/2003
+    /// Date: 14/10/2024
     /// Objective: Nhập số nguyên dương là số giây, in ra định dạng hh:mm:ss
     /// </summary>
     internal class Program

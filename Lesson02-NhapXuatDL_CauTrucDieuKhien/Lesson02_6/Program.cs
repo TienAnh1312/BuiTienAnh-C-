@@ -2,7 +2,7 @@
 {
     /// <summary>
     /// Author: Tiến Anh
-    /// Date: 13/12/2003
+    /// Date: 14/10/2024
     /// Objective: Khởi tạo mảng tên, dùng foreach để in
     /// </summary>
     internal class Program

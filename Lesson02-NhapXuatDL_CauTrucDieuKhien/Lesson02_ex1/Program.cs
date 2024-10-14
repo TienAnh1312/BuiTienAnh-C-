@@ -2,7 +2,7 @@
 {
     /// <summary>
     /// Author: Tiến Anh
-    /// Date: 13/12/2003
+    /// Date: 14/10/2024
     /// Objective: Nhập thông tin nhân viên (Id, Name, Address, birthday, Salary, Bonus). in ra màn có định dạng thêm trường TotalSalary=Slary+Bonus
     /// </summary>
     internal class Program

@@ -3,17 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_5", "Lesson02_5.csproj", "{49D2DA27-FD23-4A88-A35C-B6BAADD20FD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson02_5", "Lesson02_5.csproj", "{49D2DA27-FD23-4A88-A35C-B6BAADD20FD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_6", "..\Lesson02_6\Lesson02_6.csproj", "{AAE2574E-3F56-4C2D-B2B0-B9A9D6EF27FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson02_6", "..\Lesson02_6\Lesson02_6.csproj", "{AAE2574E-3F56-4C2D-B2B0-B9A9D6EF27FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_ex1", "..\Lesson02_ex1\Lesson02_ex1.csproj", "{20B8547B-B44D-4CE6-B992-809652C03A49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson02_ex1", "..\Lesson02_ex1\Lesson02_ex1.csproj", "{20B8547B-B44D-4CE6-B992-809652C03A49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_ex2", "..\Lesson02_ex2\Lesson02_ex2.csproj", "{CBA9F331-0204-4523-9327-3FEBA94565FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson02_ex2", "..\Lesson02_ex2\Lesson02_ex2.csproj", "{CBA9F331-0204-4523-9327-3FEBA94565FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_ex3", "..\Lesson02_ex3\Lesson02_ex3.csproj", "{E3F310EB-4B55-4A9C-AB7F-0F675EBC08E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson02_ex3", "..\Lesson02_ex3\Lesson02_ex3.csproj", "{E3F310EB-4B55-4A9C-AB7F-0F675EBC08E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_ex4", "..\Lesson02_ex4\Lesson02_ex4.csproj", "{9904AFB2-A034-4FBE-AAF6-C31B819B882B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson02_ex4", "..\Lesson02_ex4\Lesson02_ex4.csproj", "{9904AFB2-A034-4FBE-AAF6-C31B819B882B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_ex5", "..\Lesson02_ex5\Lesson02_ex5.csproj", "{14F168C1-32A6-4518-AA68-6FD2BB652FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_ex6", "..\Lesson02_ex6\Lesson02_ex6.csproj", "{F27B36C2-7793-4401-AB11-80BE14B553C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_ex7", "..\Lesson02_ex7\Lesson02_ex7.csproj", "{1E19F8F9-F36F-4245-9654-D7F6610C0CB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02_ex8", "..\Lesson02_ex8\Lesson02_ex8.csproj", "{0E5DB30C-2EB4-4DAA-94E8-27D2E005CF54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +53,22 @@ Global
 		{9904AFB2-A034-4FBE-AAF6-C31B819B882B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9904AFB2-A034-4FBE-AAF6-C31B819B882B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9904AFB2-A034-4FBE-AAF6-C31B819B882B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F168C1-32A6-4518-AA68-6FD2BB652FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F168C1-32A6-4518-AA68-6FD2BB652FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F168C1-32A6-4518-AA68-6FD2BB652FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F168C1-32A6-4518-AA68-6FD2BB652FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27B36C2-7793-4401-AB11-80BE14B553C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27B36C2-7793-4401-AB11-80BE14B553C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27B36C2-7793-4401-AB11-80BE14B553C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27B36C2-7793-4401-AB11-80BE14B553C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E19F8F9-F36F-4245-9654-D7F6610C0CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E19F8F9-F36F-4245-9654-D7F6610C0CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E19F8F9-F36F-4245-9654-D7F6610C0CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E19F8F9-F36F-4245-9654-D7F6610C0CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5DB30C-2EB4-4DAA-94E8-27D2E005CF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5DB30C-2EB4-4DAA-94E8-27D2E005CF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5DB30C-2EB4-4DAA-94E8-27D2E005CF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5DB30C-2EB4-4DAA-94E8-27D2E005CF54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
