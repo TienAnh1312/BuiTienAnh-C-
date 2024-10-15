@@ -9,14 +9,17 @@
     {
         static void Main(string[] args)
         {
-            int n = 10; // Chiều cao của tam giác
+            int n = 10; 
 
             for (int i = 1; i <= n; i++)
             {
-                // In khoảng trắng cho canh giữa
-                for (int j = 1; j <= n - i; j++)
+                Console.Write(new string (' ',n-i));
+                int num = i;
+              
+                for (int j = 1; j <=  i; j++)
                 {
-                    Console.Write(" ");
+                    Console.Write(num % 10);
+                    num++;
                 }
 
                 // In các số tăng dần
@@ -25,13 +28,15 @@
                     Console.Write(j % 10);
                 }
 
+                num -= 2;
                 // In các số giảm dần
-                for (int j = i - 1; j >= 1; j--)
+                for (int j = 1; j < 1; j++)
                 {
-                    Console.Write(j % 10);
+                    Console.Write(num % 10);
+                    num --;
                 }
 
-                Console.WriteLine(); // Xuống dòng sau khi hoàn thành mỗi dòng
+                Console.WriteLine(); 
             }
         }
     }

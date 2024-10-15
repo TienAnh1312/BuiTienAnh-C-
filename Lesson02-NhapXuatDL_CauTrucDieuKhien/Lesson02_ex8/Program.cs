@@ -35,7 +35,7 @@
             }
 
             // Xuất kết quả
-            Console.WriteLine("Số dư cuối kỳ sau {0} tháng là: {1:0.00} VND", soThangGui, tongTienCuoiKy);
+            Console.WriteLine("Số lãi cuối kỳ sau {0} tháng là: {1:0.00} VND", soThangGui, tongTienCuoiKy);
         }
     }
 }
