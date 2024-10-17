@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             // Tạo tài khoản SavingAccount
             SavingAccount savingAccount = new SavingAccount(1000, 0.05);
             savingAccount.Deposit(500);
