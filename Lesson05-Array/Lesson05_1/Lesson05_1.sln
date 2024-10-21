@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05_1", "Lesson05_1.csproj", "{E92BB0FF-5E4B-42A6-A4AB-69A77381277D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson05_1", "Lesson05_1.csproj", "{E92BB0FF-5E4B-42A6-A4AB-69A77381277D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05_2", "..\Lesson05_2\Lesson05_2.csproj", "{BC5FBBD6-D3DF-44FF-8F55-838373DDCDBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson05_2", "..\Lesson05_2\Lesson05_2.csproj", "{BC5FBBD6-D3DF-44FF-8F55-838373DDCDBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05_3", "..\Lesson05_3\Lesson05_3.csproj", "{4857AA5E-3C2F-4ABA-AF2B-240AF336B033}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson05_3", "..\Lesson05_3\Lesson05_3.csproj", "{4857AA5E-3C2F-4ABA-AF2B-240AF336B033}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05_4", "..\Lesson05_4\Lesson05_4.csproj", "{7D39D464-72BB-4E8B-8152-F3D24DA1592E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson05_4", "..\Lesson05_4\Lesson05_4.csproj", "{7D39D464-72BB-4E8B-8152-F3D24DA1592E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05_ex1", "..\Lesson05_ex1\Lesson05_ex1.csproj", "{518AEA1E-C5F0-4FA0-A9CF-7E0832EA16B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson05_ex1", "..\Lesson05_ex1\Lesson05_ex1.csproj", "{518AEA1E-C5F0-4FA0-A9CF-7E0832EA16B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05_ex2", "..\Lesson05_ex2\Lesson05_ex2.csproj", "{D562CFDE-2BA2-47B6-9753-BE844E7E7ED7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson05_ex2", "..\Lesson05_ex2\Lesson05_ex2.csproj", "{D562CFDE-2BA2-47B6-9753-BE844E7E7ED7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05_ex3", "..\Lesson05_ex3\Lesson05_ex3.csproj", "{3C702AE5-E1FA-4371-AE76-274F034A8A37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson05_ex3", "..\Lesson05_ex3\Lesson05_ex3.csproj", "{3C702AE5-E1FA-4371-AE76-274F034A8A37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05_ex4", "..\Lesson05_ex4\Lesson05_ex4.csproj", "{3A21D75D-6662-47F0-88E7-BB854A31EB43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson05_ex4", "..\Lesson05_ex4\Lesson05_ex4.csproj", "{3A21D75D-6662-47F0-88E7-BB854A31EB43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson05_ExHome", "..\Lesson05_ExHome\Lesson05_ExHome.csproj", "{31503FB2-F1CB-4A2F-83AE-CE65CFE68D58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{3A21D75D-6662-47F0-88E7-BB854A31EB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A21D75D-6662-47F0-88E7-BB854A31EB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A21D75D-6662-47F0-88E7-BB854A31EB43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31503FB2-F1CB-4A2F-83AE-CE65CFE68D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31503FB2-F1CB-4A2F-83AE-CE65CFE68D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31503FB2-F1CB-4A2F-83AE-CE65CFE68D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31503FB2-F1CB-4A2F-83AE-CE65CFE68D58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
