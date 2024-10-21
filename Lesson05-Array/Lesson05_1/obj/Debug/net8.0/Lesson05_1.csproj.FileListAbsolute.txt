@@ -1,0 +1,15 @@
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\bin\Debug\net8.0\Lesson05_1.exe
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\bin\Debug\net8.0\Lesson05_1.deps.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\bin\Debug\net8.0\Lesson05_1.runtimeconfig.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\bin\Debug\net8.0\Lesson05_1.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\bin\Debug\net8.0\Lesson05_1.pdb
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\obj\Debug\net8.0\Lesson05_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\obj\Debug\net8.0\Lesson05_1.AssemblyInfoInputs.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\obj\Debug\net8.0\Lesson05_1.AssemblyInfo.cs
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\obj\Debug\net8.0\Lesson05_1.csproj.CoreCompileInputs.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\obj\Debug\net8.0\Lesson05_1.sourcelink.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\obj\Debug\net8.0\Lesson05_1.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\obj\Debug\net8.0\refint\Lesson05_1.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\obj\Debug\net8.0\Lesson05_1.pdb
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\obj\Debug\net8.0\Lesson05_1.genruntimeconfig.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson05-Array\Lesson05_1\obj\Debug\net8.0\ref\Lesson05_1.dll
