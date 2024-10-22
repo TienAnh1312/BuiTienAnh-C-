@@ -3,10 +3,25 @@
   "WorkspaceRootPath": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{249A9DE3-3269-46B0-90A5-5ACF285FDB82}|..\\Lesson06_3\\Lesson06_3.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{249A9DE3-3269-46B0-90A5-5ACF285FDB82}|..\\Lesson06_3\\Lesson06_3.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{249A9DE3-3269-46B0-90A5-5ACF285FDB82}|..\\Lesson06_3\\Lesson06_3.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B610AE6F-2998-4273-8BF3-F7E6C8975AE0}|..\\Lesson06_ex3\\Lesson06_ex3.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655EC548-18B1-44FC-AA5F-74B50565EA4F}|..\\Lesson06_ex2\\Lesson06_ex2.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B610AE6F-2998-4273-8BF3-F7E6C8975AE0}|..\\Lesson06_ex3\\Lesson06_ex3.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_ex3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C9D8FB-9080-44EC-AC0B-F2E3357BF653}|..\\Lesson06_ex1\\Lesson06_ex1.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C9D8FB-9080-44EC-AC0B-F2E3357BF653}|..\\Lesson06_ex1\\Lesson06_ex1.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_ex1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{249A9DE3-3269-46B0-90A5-5ACF285FDB82}|..\\Lesson06_3\\Lesson06_3.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA9F2CFE-C7B0-40D3-B324-089C20DF7913}|..\\Lesson06_2\\Lesson06_2.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -29,37 +44,101 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex3\\Car.cs",
+              "RelativeDocumentMoniker": "..\\Lesson06_ex3\\Car.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex3\\Car.cs",
+              "RelativeToolTip": "..\\Lesson06_ex3\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:12:59.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lesson06_ex3\\Program.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex3\\Program.cs",
+              "RelativeToolTip": "..\\Lesson06_ex3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:12:49.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lesson06_ex2\\Program.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex2\\Program.cs*",
+              "RelativeToolTip": "..\\Lesson06_ex2\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:07:15.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex1\\Book.cs",
+              "RelativeDocumentMoniker": "..\\Lesson06_ex1\\Book.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex1\\Book.cs",
+              "RelativeToolTip": "..\\Lesson06_ex1\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:02:45.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lesson06_ex1\\Program.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex1\\Program.cs",
+              "RelativeToolTip": "..\\Lesson06_ex1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:01:08.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Student.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_3\\Student.cs",
               "RelativeDocumentMoniker": "..\\Lesson06_3\\Student.cs",
               "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_3\\Student.cs",
               "RelativeToolTip": "..\\Lesson06_3\\Student.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T02:35:27.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_3\\Program.cs",
               "RelativeDocumentMoniker": "..\\Lesson06_3\\Program.cs",
               "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_3\\Program.cs",
               "RelativeToolTip": "..\\Lesson06_3\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA3wAwAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:35:17.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T02:35:17.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Lesson06_2\\Program.cs",
@@ -67,12 +146,11 @@
               "RelativeToolTip": "..\\Lesson06_2\\Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAiwBAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:11:52.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T02:11:52.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_1\\Product.cs",
               "RelativeDocumentMoniker": "..\\Lesson06_1\\Product.cs",
@@ -80,12 +158,11 @@
               "RelativeToolTip": "..\\Lesson06_1\\Product.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:03:39.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T02:03:39.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_1\\Program.cs",
               "RelativeDocumentMoniker": "..\\Lesson06_1\\Program.cs",
@@ -93,12 +170,11 @@
               "RelativeToolTip": "..\\Lesson06_1\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:02:20.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T02:02:20.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_Demo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -106,8 +182,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T01:43:21.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T01:43:21.038Z"
             }
           ]
         }

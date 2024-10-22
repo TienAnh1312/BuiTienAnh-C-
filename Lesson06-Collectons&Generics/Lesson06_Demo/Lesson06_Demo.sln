@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson06_Demo", "Lesson06_Demo.csproj", "{01C3D728-28BC-42E2-841F-1F2D64BC59C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson06_Demo", "Lesson06_Demo.csproj", "{01C3D728-28BC-42E2-841F-1F2D64BC59C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson06_1", "..\Lesson06_1\Lesson06_1.csproj", "{FDC46024-09C8-43E4-BB37-76AF630DB25F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson06_1", "..\Lesson06_1\Lesson06_1.csproj", "{FDC46024-09C8-43E4-BB37-76AF630DB25F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson06_2", "..\Lesson06_2\Lesson06_2.csproj", "{DA9F2CFE-C7B0-40D3-B324-089C20DF7913}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson06_2", "..\Lesson06_2\Lesson06_2.csproj", "{DA9F2CFE-C7B0-40D3-B324-089C20DF7913}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson06_3", "..\Lesson06_3\Lesson06_3.csproj", "{249A9DE3-3269-46B0-90A5-5ACF285FDB82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson06_3", "..\Lesson06_3\Lesson06_3.csproj", "{249A9DE3-3269-46B0-90A5-5ACF285FDB82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson06_ex1", "..\Lesson06_ex1\Lesson06_ex1.csproj", "{79C9D8FB-9080-44EC-AC0B-F2E3357BF653}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson06_ex1", "..\Lesson06_ex1\Lesson06_ex1.csproj", "{79C9D8FB-9080-44EC-AC0B-F2E3357BF653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson06_ex2", "..\Lesson06_ex2\Lesson06_ex2.csproj", "{655EC548-18B1-44FC-AA5F-74B50565EA4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson06_ex3", "..\Lesson06_ex3\Lesson06_ex3.csproj", "{B610AE6F-2998-4273-8BF3-F7E6C8975AE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{79C9D8FB-9080-44EC-AC0B-F2E3357BF653}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79C9D8FB-9080-44EC-AC0B-F2E3357BF653}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79C9D8FB-9080-44EC-AC0B-F2E3357BF653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655EC548-18B1-44FC-AA5F-74B50565EA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655EC548-18B1-44FC-AA5F-74B50565EA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655EC548-18B1-44FC-AA5F-74B50565EA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655EC548-18B1-44FC-AA5F-74B50565EA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B610AE6F-2998-4273-8BF3-F7E6C8975AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B610AE6F-2998-4273-8BF3-F7E6C8975AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B610AE6F-2998-4273-8BF3-F7E6C8975AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B610AE6F-2998-4273-8BF3-F7E6C8975AE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

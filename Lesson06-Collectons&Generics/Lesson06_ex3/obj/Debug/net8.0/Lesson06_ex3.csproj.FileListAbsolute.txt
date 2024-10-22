@@ -1,0 +1,15 @@
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\bin\Debug\net8.0\Lesson06_ex3.exe
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\bin\Debug\net8.0\Lesson06_ex3.deps.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\bin\Debug\net8.0\Lesson06_ex3.runtimeconfig.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\bin\Debug\net8.0\Lesson06_ex3.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\bin\Debug\net8.0\Lesson06_ex3.pdb
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\obj\Debug\net8.0\Lesson06_ex3.GeneratedMSBuildEditorConfig.editorconfig
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\obj\Debug\net8.0\Lesson06_ex3.AssemblyInfoInputs.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\obj\Debug\net8.0\Lesson06_ex3.AssemblyInfo.cs
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\obj\Debug\net8.0\Lesson06_ex3.csproj.CoreCompileInputs.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\obj\Debug\net8.0\Lesson06_ex3.sourcelink.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\obj\Debug\net8.0\Lesson06_ex3.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\obj\Debug\net8.0\refint\Lesson06_ex3.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\obj\Debug\net8.0\Lesson06_ex3.pdb
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\obj\Debug\net8.0\Lesson06_ex3.genruntimeconfig.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_ex3\obj\Debug\net8.0\ref\Lesson06_ex3.dll
