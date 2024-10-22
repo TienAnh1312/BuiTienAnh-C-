@@ -1,0 +1,15 @@
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\bin\Debug\net8.0\Lesson06_Demo.exe
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\bin\Debug\net8.0\Lesson06_Demo.deps.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\bin\Debug\net8.0\Lesson06_Demo.runtimeconfig.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\bin\Debug\net8.0\Lesson06_Demo.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\bin\Debug\net8.0\Lesson06_Demo.pdb
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\obj\Debug\net8.0\Lesson06_Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\obj\Debug\net8.0\Lesson06_Demo.AssemblyInfoInputs.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\obj\Debug\net8.0\Lesson06_Demo.AssemblyInfo.cs
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\obj\Debug\net8.0\Lesson06_Demo.csproj.CoreCompileInputs.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\obj\Debug\net8.0\Lesson06_Demo.sourcelink.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\obj\Debug\net8.0\Lesson06_Demo.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\obj\Debug\net8.0\refint\Lesson06_Demo.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\obj\Debug\net8.0\Lesson06_Demo.pdb
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\obj\Debug\net8.0\Lesson06_Demo.genruntimeconfig.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_Demo\obj\Debug\net8.0\ref\Lesson06_Demo.dll

@@ -1,0 +1,15 @@
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\bin\Debug\net8.0\Lesson06_3.exe
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\bin\Debug\net8.0\Lesson06_3.deps.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\bin\Debug\net8.0\Lesson06_3.runtimeconfig.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\bin\Debug\net8.0\Lesson06_3.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\bin\Debug\net8.0\Lesson06_3.pdb
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\obj\Debug\net8.0\Lesson06_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\obj\Debug\net8.0\Lesson06_3.AssemblyInfoInputs.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\obj\Debug\net8.0\Lesson06_3.AssemblyInfo.cs
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\obj\Debug\net8.0\Lesson06_3.csproj.CoreCompileInputs.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\obj\Debug\net8.0\Lesson06_3.sourcelink.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\obj\Debug\net8.0\Lesson06_3.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\obj\Debug\net8.0\refint\Lesson06_3.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\obj\Debug\net8.0\Lesson06_3.pdb
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\obj\Debug\net8.0\Lesson06_3.genruntimeconfig.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson06-Collectons&Generics\Lesson06_3\obj\Debug\net8.0\ref\Lesson06_3.dll
