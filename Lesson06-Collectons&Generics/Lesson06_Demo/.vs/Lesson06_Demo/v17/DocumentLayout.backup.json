@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{249A9DE3-3269-46B0-90A5-5ACF285FDB82}|..\\Lesson06_3\\Lesson06_3.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B610AE6F-2998-4273-8BF3-F7E6C8975AE0}|..\\Lesson06_ex3\\Lesson06_ex3.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B610AE6F-2998-4273-8BF3-F7E6C8975AE0}|..\\Lesson06_ex3\\Lesson06_ex3.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{249A9DE3-3269-46B0-90A5-5ACF285FDB82}|..\\Lesson06_3\\Lesson06_3.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{655EC548-18B1-44FC-AA5F-74B50565EA4F}|..\\Lesson06_ex2\\Lesson06_ex2.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson06-collectons\u0026generics\\lesson06_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -44,7 +44,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -61,13 +61,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex3\\Program.cs",
               "RelativeDocumentMoniker": "..\\Lesson06_ex3\\Program.cs",
               "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex3\\Program.cs",
               "RelativeToolTip": "..\\Lesson06_ex3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T03:12:49.7Z",
               "EditorCaption": ""
@@ -78,8 +78,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Lesson06_ex2\\Program.cs",
-              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex2\\Program.cs*",
-              "RelativeToolTip": "..\\Lesson06_ex2\\Program.cs*",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_ex2\\Program.cs",
+              "RelativeToolTip": "..\\Lesson06_ex2\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T03:07:15.079Z",
@@ -113,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson06-Collectons\u0026Generics\\Lesson06_3\\Student.cs",
               "RelativeDocumentMoniker": "..\\Lesson06_3\\Student.cs",

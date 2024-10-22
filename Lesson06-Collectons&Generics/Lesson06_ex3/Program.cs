@@ -22,7 +22,7 @@
                 new Car("Car G", "White"),
                 new Car("Car H", "Yellow"),
                 new Car("Car I", "Red"),
-                new Car("Car J", "Blue")
+                new Car("Car J", "Red")
             };
 
             // In danh sách các xe Car
