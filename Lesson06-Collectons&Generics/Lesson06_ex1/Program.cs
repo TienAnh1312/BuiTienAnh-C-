@@ -21,12 +21,12 @@
                 new Book(2, "Book B", "Author 2", "Publisher B", 2015, 150),
                 new Book(3, "Book C", "Author 3", "Publisher A", 2014, 90),
                 new Book(4, "Book D", "Author 4", "Publisher D", 2016, 120),
-                new Book(5, "Book E", "Author 5", "Nhị Đồng", 2017, 110),
+                new Book(5, "Book E", "Author 5", "Nhi Đồng", 2017, 110),
                 new Book(6, "Book F", "Author 6", "Publisher F", 2014, 140),
-                new Book(7, "Book G", "Author 7", "Nhị Đồng", 2018, 130),
+                new Book(7, "Book G", "Author 7", "Nhi Đồng", 2018, 130),
                 new Book(8, "Book H", "Author 8", "Publisher H", 2013, 80),
                 new Book(9, "Book I", "Author 9", "Publisher I", 2019, 70),
-                new Book(10, "Book J", "Author 10", "Nhị Đồng", 2020, 200)
+                new Book(10, "Book J", "Author 10", "Nhi Đồng", 2020, 200)
             };
 
             // In danh sách các quyển sách tăng dần theo giá
@@ -63,8 +63,8 @@
                 Console.WriteLine(book); 
             }
 
-            // Xóa những quyển sách của nhà xuất bản "Nhị Đồng"
-            books.RemoveAll(b => b.Publisher == "Nhị Đồng");
+            // Xóa những quyển sách của nhà xuất bản "Nhi Đồng"
+            books.RemoveAll(b => b.Publisher == "Nhi Đồng");
 
             // In danh sách sau khi xóa sách của nhà xuất bản "Nhị Đồng"
             Console.WriteLine("\nDanh sách sách sau khi xóa những sách của nhà xuất bản 'Nhị Đồng':");

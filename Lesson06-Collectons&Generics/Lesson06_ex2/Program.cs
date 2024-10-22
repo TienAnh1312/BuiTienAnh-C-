@@ -34,7 +34,7 @@ namespace Lesson06_ex2
             }
             else
             {
-                Console.WriteLine("Không tìm thấy ngày 'Tuesday'.");
+                Console.WriteLine("Không có ngày 'Tuesday'.");
             }
 
             // In ra các ngày trong tuần bao gồm cả key và value

@@ -15,7 +15,7 @@
                 new Student {Id="S14", FirstName="Trần Hoàng", LastName="Phương", Avg=3 },
                 new Student {Id="S15", FirstName="Hoàng Thị", LastName="Huệ", Avg=5 },
                 new Student {Id="S16", FirstName="Nguyễn Thiên", LastName="Nhân", Avg=7.5 },
-                new Student {Id="S17", FirstName="Nguyễn Tiến", LastName="Tùng", Avg=8.8 },
+                new Student {Id="S17", FirstName="Nguyễn Thiến", LastName="Tùng", Avg=8.8 },
             };
 
             //in danh sách sv

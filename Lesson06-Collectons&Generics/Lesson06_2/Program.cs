@@ -14,7 +14,7 @@
             listEm.Add("E02", "Lâm Thế Vinh");
             listEm.Add("E03", "Trần Ngọc An");
             listEm.Add("E04", "Nguyễn Tuấn Anh");
-            listEm.Add("E05", "Phạm Chi Phanh");
+            listEm.Add("E05", "Phạm Chi Chanh");
 
             // In danh sách
             Console.WriteLine("Danh sách nhân viên");
