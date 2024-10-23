@@ -1,0 +1,15 @@
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\bin\Debug\net8.0\Lesson07_3.exe
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\bin\Debug\net8.0\Lesson07_3.deps.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\bin\Debug\net8.0\Lesson07_3.runtimeconfig.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\bin\Debug\net8.0\Lesson07_3.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\bin\Debug\net8.0\Lesson07_3.pdb
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\obj\Debug\net8.0\Lesson07_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\obj\Debug\net8.0\Lesson07_3.AssemblyInfoInputs.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\obj\Debug\net8.0\Lesson07_3.AssemblyInfo.cs
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\obj\Debug\net8.0\Lesson07_3.csproj.CoreCompileInputs.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\obj\Debug\net8.0\Lesson07_3.sourcelink.json
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\obj\Debug\net8.0\Lesson07_3.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\obj\Debug\net8.0\refint\Lesson07_3.dll
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\obj\Debug\net8.0\Lesson07_3.pdb
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\obj\Debug\net8.0\Lesson07_3.genruntimeconfig.cache
+E:\BuiTienAnh\Học tập\BuiTienAnh-TH\BuiTienAnh-CSharp\Lesson07-Namespace&Exceptions\Lesson07_3\obj\Debug\net8.0\ref\Lesson07_3.dll
