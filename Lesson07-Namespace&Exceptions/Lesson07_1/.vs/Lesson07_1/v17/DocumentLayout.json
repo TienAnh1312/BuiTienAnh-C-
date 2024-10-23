@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA5E27A8-F47C-4E0D-9FB5-9BB9ECF31A55}|..\\Lesson07_4\\Lesson07_4.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson07-namespace\u0026exceptions\\lesson07_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72A0B847-1725-47EE-BDF1-8D33D29A1965}|..\\Lesson07_3\\Lesson07_3.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson07-namespace\u0026exceptions\\lesson07_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -37,18 +40,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lesson07_4\\Program.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_4\\Program.cs",
+              "RelativeToolTip": "..\\Lesson07_4\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:32:56.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_3\\Program.cs",
               "RelativeDocumentMoniker": "..\\Lesson07_3\\Program.cs",
               "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_3\\Program.cs",
               "RelativeToolTip": "..\\Lesson07_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T02:26:57.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TA.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_2\\TA.cs",
               "RelativeDocumentMoniker": "..\\Lesson07_2\\TA.cs",
@@ -56,12 +72,11 @@
               "RelativeToolTip": "..\\Lesson07_2\\TA.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T01:43:43.209Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T01:43:43.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Lesson07_2\\Program.cs",
@@ -69,12 +84,11 @@
               "RelativeToolTip": "..\\Lesson07_2\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwBUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T01:43:08.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T01:43:08.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Manufacturer.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_1\\Manufacturer.cs",
               "RelativeDocumentMoniker": "Manufacturer.cs",
@@ -82,12 +96,11 @@
               "RelativeToolTip": "Manufacturer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T01:30:31.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T01:30:31.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "StoreItem.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_1\\StoreItem.cs",
               "RelativeDocumentMoniker": "StoreItem.cs",
@@ -95,12 +108,11 @@
               "RelativeToolTip": "StoreItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T01:26:13.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T01:26:13.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -108,8 +120,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T01:25:12.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T01:25:12.745Z"
             }
           ]
         }
