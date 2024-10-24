@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFE08761-5DA6-4EE5-9D92-D71225C49F5C}|..\\Lesson07_ex2\\Lesson07_ex2.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson07-namespace\u0026exceptions\\lesson07_ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DEF2595-89B6-4C17-A67F-A0FE95FE680F}|..\\Lesson07_ex3\\Lesson07_ex3.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson07-namespace\u0026exceptions\\lesson07_ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323ED8C8-E26F-4896-9C47-7FCECA36BC10}|..\\Lesson07_ex4\\Lesson07_ex4.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson07-namespace\u0026exceptions\\lesson07_ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B298625-C7F8-47C2-BD5E-78F31F2E7964}|..\\Lesson07_ex1\\Lesson07_ex1.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson07-namespace\u0026exceptions\\lesson07_ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA5E27A8-F47C-4E0D-9FB5-9BB9ECF31A55}|..\\Lesson07_4\\Lesson07_4.csproj|e:\\buitienanh\\h\u1ECDc t\u1EADp\\buitienanh-th\\buitienanh-csharp\\lesson07-namespace\u0026exceptions\\lesson07_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,24 +46,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_ex4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lesson07_ex4\\Program.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_ex4\\Program.cs",
+              "RelativeToolTip": "..\\Lesson07_ex4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:53:59.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_ex3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lesson07_ex3\\Program.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_ex3\\Program.cs",
+              "RelativeToolTip": "..\\Lesson07_ex3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:39:02.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_ex2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lesson07_ex2\\Program.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_ex2\\Program.cs",
+              "RelativeToolTip": "..\\Lesson07_ex2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:35:53.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_ex1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lesson07_ex1\\Program.cs",
+              "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_ex1\\Program.cs",
+              "RelativeToolTip": "..\\Lesson07_ex1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:31:41.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_4\\Program.cs",
               "RelativeDocumentMoniker": "..\\Lesson07_4\\Program.cs",
               "ToolTip": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_4\\Program.cs",
               "RelativeToolTip": "..\\Lesson07_4\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwCgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T15:32:56.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_3\\Program.cs",
               "RelativeDocumentMoniker": "..\\Lesson07_3\\Program.cs",
@@ -59,12 +123,11 @@
               "RelativeToolTip": "..\\Lesson07_3\\Program.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T02:26:57.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T02:26:57.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "TA.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_2\\TA.cs",
               "RelativeDocumentMoniker": "..\\Lesson07_2\\TA.cs",
@@ -76,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Lesson07_2\\Program.cs",
@@ -88,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Manufacturer.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_1\\Manufacturer.cs",
               "RelativeDocumentMoniker": "Manufacturer.cs",
@@ -100,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "StoreItem.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_1\\StoreItem.cs",
               "RelativeDocumentMoniker": "StoreItem.cs",
@@ -112,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\BuiTienAnh\\H\u1ECDc t\u1EADp\\BuiTienAnh-TH\\BuiTienAnh-CSharp\\Lesson07-Namespace\u0026Exceptions\\Lesson07_1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

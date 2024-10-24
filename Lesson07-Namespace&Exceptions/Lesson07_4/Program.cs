@@ -1,5 +1,6 @@
 ﻿namespace Lesson07_4
 {
+
     //định nghĩa lớp custom ngoại lệ chỉ cho nhập số nguyên dương
     public class IvalidInputNumber : Exception
     {
@@ -8,6 +9,8 @@
     {
             static void Main(string[] args)
             {
+                Console.OutputEncoding = System.Text.Encoding.UTF8;
+
                 int intCnt;
                 int intNum = 0;
                 Console.WriteLine("Nhập 1 số: ");
